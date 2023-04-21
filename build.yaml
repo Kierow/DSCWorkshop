@@ -108,9 +108,9 @@ TaskHeader: |
 Sampler.DscPipeline:
   DscCompositeResourceModules:
   - PSDesiredStateConfiguration
-  - DscConfig.Demo
-  #- Name: CommonTasks
-  #  Version: 0.3.259
+  #- DscConfig.Demo
+  - Name: CommonTasks
+    Version: 0.10.0
 
 ####################################################
 #           Setting Sampler PSModulePath           #
