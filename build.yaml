@@ -24,7 +24,6 @@ BuildWorkflow:
     - LoadDatumConfigData
     - TestConfigData
     - CompileDatumRsop
-    - TestReferenceRsop
     - Set_PSModulePath
     - TestDscResources
     - CompileRootConfiguration
