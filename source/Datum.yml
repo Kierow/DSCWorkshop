@@ -11,7 +11,7 @@ DatumHandlersThrowOnError: true
 DatumHandlers:
   Datum.ProtectedData::ProtectedDatum:
     CommandOptions:
-      PlainTextPassword: SomeSecret
+      PlainTextPassword: Azerty123*
   Datum.InvokeCommand::InvokeCommand:
     SkipDuringLoad: true
 
