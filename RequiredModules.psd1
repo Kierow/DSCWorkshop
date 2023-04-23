@@ -35,7 +35,6 @@
     'DscResource.DocGenerator'   = '0.11.2'
 
     # Composites
-    # 'DscConfig.Demo'             = '0.8.3'
     'CommonTasks'                 = '0.10.0-preview0006'
 
     #DSC Resources
@@ -79,14 +78,5 @@
     xRemoteDesktopSessionHost    = '2.1.1-preview0001'
     cScom                        = '1.0.4'
     AzureConnectedMachineDsc     = '1.4.0'
-
-    # xPSDesiredStateConfiguration = '9.1.0'
-    # ComputerManagementDsc        = '9.0.0'
-    # NetworkingDsc                = '9.0.0'
-    # JeaDsc                       = '0.7.2'
-    # WebAdministrationDsc         = '4.1.0'
-    # FileSystemDsc                = '1.1.1'
-    # SecurityPolicyDsc            = '2.10.0.0'
-    # xDscDiagnostics              = '2.8.0'
 
 }
